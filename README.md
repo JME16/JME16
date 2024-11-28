@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JME16
-- 👀 I’m interested in F1, Golf, College Football, Star Wars and Data
+- 👀 I’m interested in F1, Golf, College Football, Star Wars and Linux
 - 🌱 I’m currently learning Pandas, Python and MySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
