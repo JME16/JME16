@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jamie
 - 👀 I’m interested in F1, Golf, College Football, Star Wars and Linux
-- 🌱 I’m currently studying for LIPC-1 and learning Pandas, Python and MySQL
+- 🌱 I’m currently studying for LPIC-1 and learning Pandas, Python and MySQL
 - 💞️ I’m looking to collaborate on ... Linux System Admin or entry into the field of Linux
 - 📫 How to reach me ...
 - ⚡ Fun fact: Taught and coached for 17 years in Texas public education before deciding to move into tech.
