@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Jamie
-- 👀 I’m interested in F1, Golf, College Football, Star Wars and Linux
-- 🌱 I’m currently studying for RHEL, AI and expanding my experience with Pandas, Python and MySQL
-- 💞️ I’m looking to collaborate on ... Linux System Admin or entry into the field of Linux
+- 👀 I’m interested in Project Management, F1, Golf, College Football, Star Wars and Linux
+
+Galactic Gains Gym – Project Management Simulation
+Welcome to my GitHub profile! I'm currently focused on applying project management principles through a simulation aligned with the CompTIA Project+ (PK0-005) exam.
+
+This project blends real-world planning with certification learning — through the fictional launch of Galactic Gains Gym, a fitness brand going digital.
 - 📫 How to reach me ...
 - ⚡ Fun fact: Taught and coached for 17 years in Texas public education before deciding to move into tech.
 
