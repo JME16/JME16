@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm currently focused on applying project manageme
 
 This project blends real-world planning with certification learning — through the fictional launch of Galactic Gains Gym, a fitness brand going digital.
 
-- 📫 How to reach me ... hawks1640@gmail.com
+- 📫 How to reach me ... jamie.edwards.databoss@outlook.com
 - ⚡ Fun fact: Taught and coached for 17 years in Texas public education before deciding to move into tech.
 
 <!---
